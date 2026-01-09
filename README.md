@@ -2,8 +2,8 @@
 🔭 I’m currently working on building skills.<br>
 👯 I’m looking to collaborate on cloud and software roles.<br>
 🤝 I’m looking for help with an opportunity.<br>
-🌱 I’m currently learning CLOUDS>>>☁️<br>
-⚡ Fun fact: 🐞s are best teachers!
+🌱 I’m currently learning about CLOUDS...☁️<br>
+⚡ Fun fact: 🐞's are best teachers!
 
 
 ## 🏅 Certifications
