@@ -7,7 +7,7 @@
 
 
 ## 🏅 Certifications
-[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=18DCF4EA57777056DC99CD9B6953650ADAD537D99BEE38998DAB6E272E3ED922)
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=18DCF4EA57777056DC99CD9B6953650ADAD537D99BEE38998DAB6E272E3ED922) <br>
 ![OCI25FNDCFA (1)](https://github.com/user-attachments/assets/4617d4e0-00b0-4098-a0fa-7b221c1064c4)
 
 
